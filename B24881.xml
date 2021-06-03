@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>It was little expected by the Colledge of Physicians, ...</title>
+            <title>Vindication of the Colledge of Physicians.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24881</idno><idno type="EEBO-CITATION">99894520_195770</idno>
+  <idno type="VID">195770</idno>
+  <idno type="EEBO-PROQUEST">2264180950</idno>
+  
+            <idno type="STC">Wing I1088bA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[22]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.l.1.[15]</idno>
+            <idno type="STC">ESTC T37442</idno>
+            <idno type="PROQUEST">ocm99894520</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99894520e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24881)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195770)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[22], E7:1[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>It was little expected by the Colledge of Physicians, ...</title>
+                  <title>Vindication of the Colledge of Physicians.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1694 and 1712?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Initial.</note>
+                  <note>Title from first line of text.</note>
+                  <note>Another edition of 'A vindication of the Colledge of Physicians ...' [London, 1712?].</note>
+                  <note>Without margin notes.</note>
+                  <note>Dated [1694] in Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal College of Physicians of London --  Early works to 1800.</term>
+               <term type="topical_term">Pharmacy --  England --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  18th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195770:1"/>
+            <p>
+               <seg rend="decorInit">I</seg>T was little expected by the <hi>Colledge</hi> of <hi>Physicians,</hi> that after (<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>) they had openly de<g ref="char:EOLunhyphen"/>clared in their Publick Assembly, that none of them would oppose the <hi>Apothecaries</hi> Bill, and some per<g ref="char:EOLhyphen"/>haps beyond their Duty had actually assisted them therein, they should for all that find themselves fre<g ref="char:EOLhyphen"/>quently reflected upon both in their Publick Papers and Pleadings to the <hi>Two Houses of Parliament,</hi> which occasions this Short but Necessary Vindication of the <hi>Colledge</hi> and <hi>Faculty.</hi>
+            </p>
+            <p>The chief thing the <hi>Apothecaries</hi> would insinuate, is their great Charity, especially to the meaner Sort of People and Servants, which they pretend to be under their immediate Care, intimating thereby that the <hi>Physicians</hi> will do nothing for Charity to the Poor; but this is so far from being true, that frequent Complaints have been made to the President, and Censors of the <hi>Colledge,</hi> of their Extortions and Unreasonableness in their Bills to the poorer People; and whereas the <hi>Physicians</hi> are always ready to give Advice <hi>gra<g ref="char:EOLhyphen"/>tis</hi> to the Poor in their Several Wards, both in the City and Suburbs, and are obliged so to do by a standing Order of the <hi>Colledge</hi> (which was formerly by them presented to the Lord Mayor, and the Court of Aldermen, to be publisht in the several Wards) yet the Poor can have no benefit thereby, be<g ref="char:EOLhyphen"/>cause of the excessive Rates the <hi>Apothecaries</hi> demand for the Physick; whereas would they sell their Medicines to the Poor either for their intrinsick Value, or at moderate Prices, the <hi>Physicians</hi> having obliged themselves to take care of the Poor <hi>gratis,</hi> this Order might be effectual, and for the Publick Good.</p>
+            <p>The second thing they recommend themselves for, is their diligent Atten<g ref="char:EOLhyphen"/>dance upon Sick Persons of all sorts, Day and Night, and we acknowledge they are very busy to make themselves necessary in all Families; but this is plainly for their own Profit, to promote their Private Practice, which under the notion of giving Physick to the Poor, they would subtilly introduce and establish, being in the mean time well paid for the Physick they give to the meanest. And for the Rich, they find an opportunity by their pretend<g ref="char:EOLhyphen"/>ed Care and Sedulity to ingratiate themselves with the Patients, whilst in the mean time their true intent is to spy what Bottles are empty, to find fault with the <hi>Juleps</hi> and <hi>Cordials,</hi> that they are grown sour and want re<g ref="char:EOLhyphen"/>newing; and so take occasion by frequent repeating of the Medicines on their own Heads, without the <hi>Physicians</hi> knowledge, to increase their Bills to an incredible Rate, whereby they fill their own Purses, to the great Oppression of the Patient, whom they often also charge for their officious Visits, and some<g ref="char:EOLhyphen"/>times demand Fees for their Advice.</p>
+            <p>'Tis true, the <hi>Apothecaries</hi> attendance abroad may in some extraordinary Cases be necessary, but generally their Duty is at home, where they would do the Patient the best Service, in faithfully and carefully making up the <hi>Physician</hi>'s Prescriptions, and preventing their frequent and many fatal Mistakes committed by their Ignorant Boys. But as for administring the Medicines prescribed to the Patient, there is little need of the <hi>Apothecaries</hi> attendance, which may be very well done without, by the Servants and Nurses, according to the plain Directions in <hi>English</hi> of the <hi>Physician.</hi> And the <hi>Colledge</hi> was so sensible of this, and the many Mistakes made by the <hi>Apothecaries</hi> in English<g ref="char:EOLhyphen"/>ing their <hi>Latin</hi> Directions, that they made a Statute obliging all their Mem<g ref="char:EOLhyphen"/>bers to write in their Bills to them, only Instructions for the compounding the Medicine, but to leave Directions in <hi>English</hi> at the Patient's House for
+<pb facs="tcp:195770:2"/>the use of them. This must needs have much pleas'd the <hi>Apothecaries</hi> if they had found their frequent Attendance burdensom, and had not had some farther End therein: But they were so far from taking this kindly from the <hi>Colledge,</hi> though manifestly for their Ease as well as the Publick Good, that they brought down the Lord Chancellor <hi>Jeffreys</hi> in great Fury to visit the <hi>Colledge,</hi> though he was at last satisfi'd with the great Reasons the <hi>Colledge</hi> had for making that Sta<g ref="char:EOLhyphen"/>tute.</p>
+            <p>The third good thing these Men say of themselves, is, That the Publick has as great Benefit by the Exercise of their Profession, (as they call it) as by the <hi>Physicians;</hi> This is a direct setting themselves upon the same Level with the <hi>Phy<g ref="char:EOLhyphen"/>sicians:</hi> But is the compounding of Med'cines of as great Benefit to the Publick, as the inventing them? Is any of our <hi>Apothecaries</hi> of as great use to the World, as <hi>Harvey, Willis, Bates,</hi> nay, old <hi>Galen</hi> and <hi>Hippocrates</hi> too. They call their Trade a Profession, and themselves Professors; as well may Cooks and Bakers. They say they are a part of Physick; of the Mechanical part of it they are, but not of the Science of Physick, of which they are no more a part, than those that can make Sage Posset-Drink, and Mace Ale.</p>
+            <p>The fourth thing they pretend to, is, That 133000 Families receive advantage by their undisturb'd Attendance, as if no Body had to do in these Families but themselves; whereas they most lamentably complain that the <hi>Quacks</hi> take most of their Business from them; and 'tis true in Fact, that the Face of the Poor being grinded by their Extortion in their Bills, which they are not able to pay, generally apply themselves to the <hi>Quacks.</hi>
+            </p>
+            <p>A fifth thing by them openly pleaded, was, That they must needs have as great Skill as any <hi>Physician;</hi> for the <hi>Physician</hi> has only his own Prescriptions, whereas they see those of most of the best and learned'st <hi>Physicians,</hi> and so get great Ex<g ref="char:EOLhyphen"/>perience. Indeed had they any true Foundation in the grounds of Physick, did they understand the true natural Philosophy Anatomy, the Seat of Diseases, with their Symptoms, and the Reasons of them, this might be of Advantage to them, as it is to the <hi>Young Physicians,</hi> who improve themselves in the Universities, in their Travels, and here in Town, by visiting Hospitals, consulting the Files, and fre<g ref="char:EOLhyphen"/>quenting the company of the most eminent Practisers: But they wanting this Foundation, the Argument is just as true, as if the Clerk of the <hi>Temple</hi> Church should declare, that he must needs be a better Divine than the Learned Master, Dr <hi>Sherlock;</hi> for Dr. <hi>Sherlock</hi> only knows what himself knows, and hears him<g ref="char:EOLhyphen"/>self preach; but he the Clerk hears both him and all the Eminent Divines that usually preach to those Ingenious Societies, and that upon most Subjects and Cases in Divinity, and therefore he must needs be the greater Theologue of the two. It is tedious to pursue these Gentlemen in the rest of their very pre<g ref="char:EOLhyphen"/>sumptuous Allegations. In short, what they pretend, is Charity, unwearied diligence to the Sick, and Publick Good, like generous and disinterested Men; whereas pull off the Mask, and you'll find a Liberty of Practice is all they aim at; the rest is Sham and Banter: And indeed the only way to make that plausible Pretence of theirs real Charity, was to find out some means to regulate their unreasonable Bills, which are both burthensom to the Rich, and ruinous to the Poor; which may easily be done, by giving the <hi>President</hi> and <hi>Censors</hi> of the <hi>Colledge of Physicians</hi> power to tax them, or by some other methods the Par<g ref="char:EOLhyphen"/>liament shall think more fitting, according to the custom of other Foreign Coun<g ref="char:EOLhyphen"/>tries. It is hoped, for the encouragement of the Science of Physick, and for the sake of their Younger Sons, (many of which may have a Subsistence from this Faculty) the Parliament will not think fit to give them this their dear Liberty of Practice, the very <hi>Diana</hi> of all their Hopes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
